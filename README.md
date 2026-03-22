@@ -1,3 +1,119 @@
+# 5-Minute Anti-Stupidity SOP
+
+> A battle-tested decision-making framework forged in extreme circumstances.  
+> 4 steps. 5 minutes. Block 90% of stupid mistakes.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Use Cases](https://img.shields.io/badge/Use_Cases-Workplace・Startups・Projects・Decisions-blue)]()
+[![Language](https://img.shields.io/badge/Language-English・繁體中文-red)]()
+
+**Before any important decision, spend 5 minutes running through this.  
+One less stupid mistake is a win.**
+
+---
+
+## You’ve had these moments
+
+Making a snap decision, then regretting it immediately.  
+Hearing instructions, rushing to execute, then realizing you completely misunderstood.  
+Presenting a plan with full confidence, only to have it torn apart by obvious flaws.  
+The more critical the choice, the more your brain short-circuits, making the dumbest, most preventable errors.
+
+I lived through extreme pressure — where every decision mattered, where mistakes weren’t an option.  
+To survive, I built this **5-Minute Anti-Stupidity SOP** alongside an AI.
+
+It’s not academic theory. It’s a **battle-tested framework** refined in survival mode.  
+It strips down high-level logic into a checklist anyone can use.
+
+Whether it’s a work task, a project launch, or a life choice,  
+running through these 4 steps takes 5 minutes and blocks 90% of basic mistakes.  
+**This isn’t for geniuses. It’s for anyone who doesn’t want to trip over the small stuff.**
+
+---
+
+## 🚀 Quick Start (10 seconds)
+
+1. Copy the checklist below.  
+2. Check each item as you go.  
+3. Use it solo or during meetings.  
+4. Screenshot or paste the result into your team chat to align everyone.
+
+---
+
+## 📝 Anti-Stupidity SOP Checklist
+
+### 1. Parrot Mode (Alignment)
+- [ ] I repeated the request in my own words.
+- [ ] I confirmed vague terms (e.g., “ASAP” means today EOD, not tomorrow morning).
+
+### 2. Three-Path Planning (No Single Answers)
+- [ ] Path A (Conservative): safest, guaranteed to work.
+- [ ] Path B (Standard): balanced, meets expectations.
+- [ ] Path C (Breakthrough): best possible outcome if resources/time aren’t an issue.
+
+### 3. Devil’s Advocate (Red Team)
+- [ ] I attacked my own plan from an opponent’s perspective.
+- [ ] I identified the weakest link and prepared a fallback.
+
+### 4. Layperson Validation (Value Translation)
+- [ ] I can explain my plan in three sentences to someone outside my field.
+- [ ] I focused on “results” and “benefits,” not “process.”
+
+---
+
+## 📌 Real Examples
+
+### Example 1: Workplace Task
+
+| Step | What I Wrote |
+|------|--------------|
+| **Parrot Mode** | Boss: “Do a competitive analysis ASAP.” My understanding: deliver key differences by EOD. Confirmed “ASAP” means today. |
+| **Three-Path** | A: Top 3 competitors, slide deck. B: 5 competitors with data tables. C: 10 competitors + user reviews. |
+| **Devil’s Advocate** | Weakest link: data sources might be unreliable. Backup: pre-verify two trusted sources, note data dates. |
+| **Layperson** | “Give the boss the main differences between our top 3 competitors in five minutes, so he knows where we should go.” |
+
+### Example 2: Project Kickoff
+
+| Step | What I Wrote |
+|------|--------------|
+| **Parrot Mode** | Client: “We want a product with high-end aesthetics.” My understanding: minimalist, premium look. Confirmed “aesthetics” means clean, not flashy. |
+| **Three-Path** | A: Small tweaks to existing template. B: Redesign visuals, keep structure. C: Full brand identity overhaul. |
+| **Devil’s Advocate** | Weakest link: option C might slip timeline. Backup: add two-week buffer, ship core pages first. |
+| **Layperson** | “Make the client feel ‘this looks expensive and impressive’ the moment they open the page.” |
+
+---
+
+## 🤝 Why It Works
+
+This SOP was forged under extreme pressure:
+- **Forced alignment** – verify before acting.
+- **Forced multiple options** – never bet on one plan.
+- **Forced self-critique** – patch holes before someone else points them out.
+- **Forced simplicity** – if you can’t explain it simply, you don’t understand it.
+
+It’s not mathematically perfect, but **it keeps you alive in the real world**.
+
+---
+
+## 📄 License
+
+MIT License — by [dabaozheng](https://github.com/dabaozheng)  
+Use it freely, modify it, teach it.  
+If it saves you from one stupid mistake, that’s a win.
+
+---
+
+## ⭐ Get Involved
+
+Used this SOP to avoid something dumb? Share your story in [Issues](https://github.com/dabaozheng/anti-stupid-sop/issues).  
+Found it helpful? Give it a **Star** ⭐ to help others find it.
+
+---
+
+---
+
+<!-- 以下為中文版 -->
+
 # 5-Minute Anti-Stupidity SOP | 5分鐘防蠢決策檢查表
 
 > 絕境煉出的實戰決策框架，4步堵住90%低級錯誤
@@ -95,8 +211,8 @@
 
 ## 📄 授權
 
-MIT License。隨便用、隨便改、隨便拿去教人。  
-如果你因此少犯一次蠢，就算我賺到了。
+MIT License — by [dabaozheng](https://github.com/dabaozheng)  
+隨便用、隨便改、隨便拿去教人。如果你因此少犯一次蠢，就算我賺到了。
 
 ---
 
